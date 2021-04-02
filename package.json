@@ -12,6 +12,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "postinstall": "husky install",
     "dev": "lerna run dev --stream",
     "lint": "lerna run lint --stream",
     "lint:fix": "lerna run lint:fix --concurrency 4",
