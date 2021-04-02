@@ -1,6 +1,7 @@
 {
   "name": "@drupsio/client",
   "version": "0.0.0",
+  "description": "Drups.io api package",
   "scripts": {
     "clean": "rimraf ./.next",
     "dev": "next dev",
