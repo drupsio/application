@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "removeComments": true,
+    "target": "es2017",
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
